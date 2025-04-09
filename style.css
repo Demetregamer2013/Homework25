@@ -1,0 +1,65 @@
+body{
+    background-color:hsl(234,29%,20% ) ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+
+
+
+.h1{
+    font-size: 45px;
+}
+
+
+.p1{
+    color:gr ;
+}
+
+
+
+.div1{
+    background-color: white;
+    width: 900px;
+    height: 500px;
+    border-radius: 10px;
+    padding: 60px;
+
+}
+
+
+
+.inp1{
+    width: 299px;
+    height: 35px;
+    border-radius: 10px;
+    border: solid 1px gray;
+
+
+
+}
+
+
+.btn1{
+    width: 305px;
+    height: 40px;
+    border-radius: 10px;
+    border: solid 1px black;
+     margin-top: 20px;
+     background-color: black;
+     color: white;
+}
+
+.img1{
+   margin-left: 700px;
+   margin-bottom: 300px;
+}
+
+
+
+div.div2{
+    
+}
