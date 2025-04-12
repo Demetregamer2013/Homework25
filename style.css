@@ -1,5 +1,5 @@
-body{
-    background-color:hsl(234,29%,20% ) ;
+body {
+    background-color: hsl(234, 29%, 20%);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -10,29 +10,29 @@ body{
 
 
 
-.h1{
+.h1 {
     font-size: 45px;
 }
 
 
-.p1{
-    color:gr ;
+.p1 {
+    color: gr;
 }
 
 
 
-.div1{
+.div1 {
     background-color: white;
-    width: 900px;
+    width: 650px;
     height: 500px;
     border-radius: 10px;
-    padding: 60px;
+    padding: 7ch;
 
 }
 
 
 
-.inp1{
+.inp1 {
     width: 299px;
     height: 35px;
     border-radius: 10px;
@@ -43,23 +43,34 @@ body{
 }
 
 
-.btn1{
+.btn1 {
     width: 305px;
     height: 40px;
     border-radius: 10px;
     border: solid 1px black;
-     margin-top: 20px;
-     background-color: black;
-     color: white;
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    display: block;
 }
 
-.img1{
-   margin-left: 700px;
-   margin-bottom: 300px;
+.div1 {
+    display: flex;
 }
 
 
+.img1 {
+    margin-left: 50px;
+    display: block;
 
-div.div2{
-    
+}
+
+
+div.div99 {
+    display: flex;
+    gap: 10px;
+}
+
+.img2 {
+    gap: 10px;
 }
